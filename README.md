@@ -3,8 +3,6 @@
 This is the PyTorch implementation for **WT-SR** proposed in the paper **Weak Ties Guided Mining for Social
 Recommendation**.
 
-> The paper is currently under review.
-
 ## Architecture
 
 ![framework](framework.png)
